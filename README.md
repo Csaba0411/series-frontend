@@ -1,3 +1,16 @@
+Project details
+This is our series catalog front end with React.
+The Spring boot back end repository: https://github.com/Csaba0411/seriesApp-backend
+
+For using you need to install some libs:
+
+npm i axios
+npm i react-router-dom
+npm i cookies
+npm i styled-components
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
